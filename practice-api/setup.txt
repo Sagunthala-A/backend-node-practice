@@ -1,0 +1,13 @@
+
+1.installing node packages
+    npm init -y or 
+    npm init (for this we need to give yes for few steps to install)
+
+2.installing express
+    npm i express
+
+3.installing nodemon
+    npm i nodemon
+    it is a tool that helps develop Node.js based applications 
+by automatically restarting the node application when file changes in the directory are detected.
+
